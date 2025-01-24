@@ -1,0 +1,11 @@
+:root {
+    --cb-color-orange-600: #cd4108;
+    --cb-color-orange-700: #b12e00;
+    --cb-color-orange-800: #912100;
+    --cb-color-grey-800: #2c3341;
+    --cb-color-brand-orange: #ed5c25;
+    --cb-color-neutrals-white: #ffffff;
+    --cb-color-neutrals-black: #000000;
+    --cb-color-neutrals-50: #e3e3e3;
+    /* ... completar con el resto de primitivos siguiendo su estructura de grupos y subgrupos */
+  }

@@ -1,13 +1,5 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+body {
+  background-color: var(--cb-color-surface-primary);
+  width: 100vw;
+  height: 100vh;
 }
-  
-  body {
-    font-family: Arial, sans-serif;
-  }
-  
-  ul {
-    list-style: none;
-  }

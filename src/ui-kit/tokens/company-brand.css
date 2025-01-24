@@ -1,0 +1,19 @@
+:root {
+    --cb-color-surface-bg: var(--cb-color-neutrals-white);
+    --cb-color-surface-primary: var(--cb-color-brand-orange);
+    /* ... */
+    --cb-color-text-primary: var(--cb-color-neutrals-black);
+    /* ... completar con el resto de tokens de color del branding siguiendo su estructura de grupos y subgrupos */
+    --cb-elevation-none: 0;
+    --cb-elevation-sm: 0px 2px 2px 0px rgba(0, 0, 0, 0.1), 0px 3px 1px -2px rgba(0, 0, 0, 0.05),
+      0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+    /* ... completar con el resto de tokens de la marca*/
+
+    @media (prefers-color-scheme: dark) {
+        --cb-color-surface-bg: var(--cb-color-grey-800);
+        --cb-color-surface-primary: var(--cb-color-brand-orange);
+        /* ... */
+        --cb-color-text-primary: var(--cb-color-neutrals-50);
+        /* ... completar con el resto de tokens de color del branding siguiendo su estructura de grupos y subgrupos */
+      }
+  }
