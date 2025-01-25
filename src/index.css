@@ -1,5 +1,5 @@
 body {
-  background-color: var(--cb-color-surface-primary);
+  background-color: var(--cb-color-surface-bg);
   width: 100vw;
   height: 100vh;
 }

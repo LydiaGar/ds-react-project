@@ -1,11 +1,46 @@
 :root {
-    --cb-color-orange-600: #cd4108;
-    --cb-color-orange-700: #b12e00;
-    --cb-color-orange-800: #912100;
-    --cb-color-grey-800: #2c3341;
-    --cb-color-brand-orange: #ed5c25;
-    --cb-color-neutrals-white: #ffffff;
-    --cb-color-neutrals-black: #000000;
-    --cb-color-neutrals-50: #e3e3e3;
-    /* ... completar con el resto de primitivos siguiendo su estructura de grupos y subgrupos */
-  }
+  --cb-color-brand-purple: #945CCC;
+  --cb-color-brand-orange: #ED5C25;
+  --cb-color-brand-yellow: #FCB813;
+  --cb-color-brand-blue: #111C4E;
+
+  --cb-color-orange-50: #FFEFE6;
+  --cb-color-orange-100: #FFCEB6;
+  --cb-color-orange-200: #FFAE89;
+  --cb-color-orange-300: #FF9062;
+  --cb-color-orange-600: #CD4108;
+  --cb-color-orange-700: #B12E00;
+  --cb-color-orange-800: #912100;
+  --cb-color-orange-900: #5B1F15;
+
+  --cb-color-grey-100: #FFFFFF;
+  --cb-color-grey-200: #B8BECA;
+  --cb-color-grey-300: #9DA5B4;
+  --cb-color-grey-400: #848C9E;
+  --cb-color-grey-500: #6B7587;
+  --cb-color-grey-600: #555E70;
+  --cb-color-grey-700: #404858;
+  --cb-color-grey-800: #2C3341;
+
+  --cb-color-green-400: #198754;
+  --cb-color-grey-900: #051B11;
+
+  --cb-color-yellow-400: #FFC107;
+  --cb-color-yellow-900: #332701;
+    
+  --cb-color-red-400: #DC3545;
+  --cb-color-red-900: #3E0E10;
+    
+  --cb-color-neutrals-white: #ffffff;
+  --cb-color-neutrals-50: #E3E3E3;
+  --cb-color-neutrals-100: #CCCCCC;
+  --cb-color-neutrals-200: #B6B6B6;
+  --cb-color-neutrals-300: #A1A1A1;
+  --cb-color-neutrals-400: #8C8C8C;
+  --cb-color-neutrals-500: #777777;
+  --cb-color-neutrals-600: #636363;
+  --cb-color-neutrals-700: #505050;
+  --cb-color-neutrals-800: #3E3E3E;
+  --cb-color-neutrals-900: #2C2C2C;
+  --cb-color-neutrals-black: #000000;
+}
