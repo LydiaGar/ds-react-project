@@ -11,7 +11,7 @@
 
     @media (prefers-color-scheme: dark) {
         --cb-color-surface-bg: var(--cb-color-grey-800);
-        --cb-color-surface-primary: var(--cb-color-brand-orange);
+        --cb-color-surface-primary: var(--cb-color-orange-800);
         /* ... */
         --cb-color-text-primary: var(--cb-color-neutrals-50);
         /* ... completar con el resto de tokens de color del branding siguiendo su estructura de grupos y subgrupos */
