@@ -1,0 +1,19 @@
+.cb-text-body {
+    color: var(--cb-color-text-primary, #000);
+  }
+  
+  .cb-text-body--xs {
+    font-size: var(--cb-text-body-xs);
+  }
+  
+  .cb-text-body--sm {
+    font-size: var(--cb-text-body-sm);
+  }
+  
+  .cb-text-body--md {
+    font-size: var(--cb-text-body-md);
+  }
+  
+  .cb-text-body--lg {
+    font-size: var(--cb-text-body-lg);
+  }
